@@ -1,2 +1,2 @@
-# etiquetas-Basicas
-Repositorio de etiquetas básicas en html
+ Repositorio en la nube utilizando Github.
+ Diego Palomino V.
